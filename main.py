@@ -77,7 +77,6 @@ def enhance_text_with_chatgpt(text, non_speech_weight, api_key=None):
     - "—" or "..." for natural hesitations or pauses
     - ♪ to surround song lyrics
     - CAPITALIZE words that deserve emphasis
-    - [MAN] or [WOMAN] at the beginning of paragraphs where speaker gender should be emphasized
     
     Original text:
     {text}
